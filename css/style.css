@@ -60,33 +60,33 @@
     width: 392px;
 	font-size:12px;
 	float: left;
-    font-family: 'Margarine', cursive;
     margin-bottom: 21px;
+    font-family: 'Muli', sans-serif;
 }
 .text1-2{
 	font-size:12px;
-    font-family: 'Margarine', cursive;
-    float: left
+    float: left;
+   font-family: 'Muli', sans-serif;
 }
 .text2{
     width: 287px;
     color: #006837;
 	font-size:12px;
     float: right;
-    font-family: 'Margarine', cursive;
+    font-family: 'Muli', sans-serif;
 }
 .text2-1{
 	float: right;
 	color: #006837;
 	font-size:12px;
-    font-family: 'Margarine', cursive;
+    font-family: 'Muli', sans-serif;
 }
 .text2-2{
     float: right;
 	color: #006837;
 	font-size:13px;
 	margin-top: 17px;
-    font-family: 'Margarine', cursive;
+    font-family: 'Muli', sans-serif;
 }
 .image1{
 	margin-bottom: 63px;
